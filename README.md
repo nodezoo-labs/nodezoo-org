@@ -1,6 +1,6 @@
 ![Nodezoo](assets/logo-nodezoo.png)
 
-# org
+# nodezoo-org
 A place for org resources and discussions around Nodezoo
 
 
