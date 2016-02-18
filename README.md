@@ -1,4 +1,4 @@
-![Nodezoo](https://raw.githubusercontent.com/nodezoo/org/master/assets/img/logo-nodezoo.png)
+![Nodezoo](assets/logo-nodezoo.png)
 
 # org
 A place for org resources and discussions around Nodezoo
