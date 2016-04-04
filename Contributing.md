@@ -12,13 +12,13 @@ npm link nodezoo-foo (e.g. nodezoo-web, nodezoo-base)
 Navigate to nodezoo-system directory
 
 Should Contain:
-*nodezoo-base
-*nodezoo-info
-*nodezoo-search
-*nodezoo-npm
-*nodezoo-github
-*nodezoo-travis
-*nodezoo-web
+* nodezoo-base
+* nodezoo-info
+* nodezoo-search
+* nodezoo-npm
+* nodezoo-github
+* nodezoo-travis
+* nodezoo-web
 
 ###Run
 npm link ../nodezoo-web for each repository (nodezoo-info, etc.)
