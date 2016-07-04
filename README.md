@@ -18,7 +18,7 @@ features please get in touch.
 
 [npm-badge]: https://badge.fury.io/js/nodezoo-system.svg
 [npm-url]: https://badge.fury.io/js/nodezoo-system
-[npm-downloads-badge]: https://img.shields.io/npm/dm/seneca.svg?maxAge=2592000
+[npm-downloads-badge]: https://img.shields.io/npm/dm/nodezoo.svg?maxAge=2592000
 [travis-badge]: https://travis-ci.org/nodezoo/nodezoo-npm.svg?branch=master
 [travis-url]: https://travis-ci.org/nodezoo
 [gitter-badge]: https://badges.gitter.im/Join%20Chat.svg
